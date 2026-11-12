@@ -1,4 +1,4 @@
-Global Superstore Sales Analysis
+# Global Superstore Sales Analysis
 
 This project focuses on analyzing Global Superstore sales data using Power BI. The dataset contains sales, profit, orders, quantity, region, market, and shipping details.
 
